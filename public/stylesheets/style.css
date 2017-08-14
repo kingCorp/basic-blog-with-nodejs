@@ -1,0 +1,14 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: black;
+  color: white;
+}
+.head{
+  
+  padding: 50px;
+}
+.bar{
+  font-size: 15px;
+  text-align: center;
+  padding-top: 15px;
+}
